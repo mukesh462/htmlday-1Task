@@ -1,0 +1,151 @@
+li{
+    list-style-type: lower-alpha;
+}
+.last{
+    list-style-type: disc;
+    
+}
+.container{
+    display: table-caption;
+   
+    background-image: linear-gradient(to left bottom, #e0007f, #f23552, #ec6626, #d48f00, #afb100, #a1bb00, #8ec500, #74cf00, #90c700, #a5be00, #b6b515, #c2ad27);
+}
+#first{
+    border: none;
+    border-bottom: 3px solid black;
+    display:inline-block
+} 
+    
+
+.field{
+
+display: inline;
+border: 3px solid black;
+background :white
+
+
+
+}
+#last{
+    display: inline; 
+    border: none;
+    border-bottom: 3px solid black;
+    margin-left: 32px;
+}
+#add{
+    display: block;
+     border: none;
+    border-bottom: 3px solid black;
+    width: 495px;
+
+
+}
+#city{
+    display: inline;
+ border: none;
+    border-bottom: 3px solid black;
+}
+#zip{
+    display: inline;
+ border: none;
+    border-bottom: 3px solid black;
+}
+#state{
+ border: none;
+    border-bottom: 3px solid black;
+display: inline;
+
+}
+#lab{
+ display:block;
+
+
+}
+
+#last-city{
+margin-left: 103px;
+
+}
+/* }
+#zip{
+    ma
+} */
+#state-lab{
+margin-left: 141px;
+
+
+}
+#zip-lab{
+    margin-left: 137px;
+}
+
+#last-lab{
+    margin-left: 127px;
+}
+.heading{
+    text-transform: capitalize;
+    color: white;
+    background-color: #f00;
+}
+.totalcontainer{
+    font-family: 'Open Sans', sans-serif;
+}
+#sub{
+    display: inline;
+}
+input#first,input#last,input#add,input#city,input#state,input#zip{
+
+font-family: 'Damion', cursive;
+font-weight:bolder;
+font-size: 20px;
+text-align: center;
+outline: none;
+
+}
+
+.txt{
+    font-weight: bold;
+}
+th{
+    padding: 28px;
+}
+td{
+    padding: 18px;}
+/* }
+.color{
+    padding: 32px;
+} */
+#st{
+  font-size: 30px;
+ padding: 20px;
+}
+
+fieldset.color{
+
+    padding: 20px;
+ }
+.d-value{
+    border: 3px solid black;
+    display: inline-block;
+    padding: 10px;
+    background-image: linear-gradient(to left bottom, #e0007f, #f23552, #ec6626, #d48f00, #afb100, #a1bb00, #8ec500, #74cf00, #90c700, #a5be00, #b6b515, #c2ad27);
+
+
+}
+.center{
+    margin-left: 90px;
+    margin-top: 12px;
+}
+.all-inp{
+
+border: 3px solid rgb(0, 0, 0);
+padding:19px;
+width: 280px;
+background-color:#00802375;
+}
+body{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+table{
+    background-color: white;
+}
